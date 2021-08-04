@@ -16,3 +16,5 @@ Yang sudah dikerjakan :
 15. authentication with API pbkm
 
 
+Hal yang dilakukan setelah clone :
+1. setup dark mode semua screen
